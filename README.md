@@ -7,8 +7,8 @@ assignments. They are exploratory functional analyses after the cell identities
 are assigned.
 
 The repository contains two subdirectories, `BC_analysis` for the subclonal
-ssGSEA analysis, and `CLL_analysis` for the single cell expression and
-clonotype analyses.
+ssGSEA analysis using the breast cancer dataset, and `CLL_analysis` for the
+single cell expression and clonotype analyses using the CLL dataset.
 
 To recreate the analyses results, navigate to the corresponding folder, and
 source the R script from an R interpreter prompt or RStudio. Plots that are
